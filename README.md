@@ -1,1 +1,1 @@
-Simple excercise of my Java lectures.
+Simple excercise from my Java lectures.
